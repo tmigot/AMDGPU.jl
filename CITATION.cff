@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Samaroo
+    given-names: Julian
+  - family-names: Churavy
+    given-names: Valentin
+title: "AMDGPU.jl"
+version: 0.4.3
+doi: 10.5281/zenodo.4677700
+date-released: 2022-09-08
+url: "https://github.com/JuliaGPU/AMDGPU.jl"
